@@ -1,2 +1,14 @@
-# The-China-Civil-War
-For Heart Of Iron IV Mod
+# 内战
+
+此Mod是钢铁雄心4中关于中国内战的Mod
+
+
+
+- 立项时间：2024-03-30
+
+- 立项人：Eric
+
+- 版本：Bate 1.0.0
+
+
+
